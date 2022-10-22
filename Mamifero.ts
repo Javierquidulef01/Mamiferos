@@ -1,4 +1,4 @@
-export abstract class Mamifero {
+export class Mamifero {
     protected nombre: string;
     protected habitat: string;
     protected alimento: string;
