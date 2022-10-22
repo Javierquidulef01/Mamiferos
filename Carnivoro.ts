@@ -1,7 +1,7 @@
 import { Mamifero } from './Mamifero';
 
-export class Carnivoro extends Mamifero{
-    
+export class Carnivoro extends Mamifero {
+
     public constructor() {
         super();
     }
